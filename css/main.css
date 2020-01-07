@@ -2,6 +2,18 @@ html {
   font-family: Georgia, serif;
 }
 
-figcaption {
+h1 {
   color: #fff;
-  
+}
+
+p {
+  color: #fff;
+}
+
+a {
+  color: #fff;
+}
+
+.btn {
+  color: #fff
+}
