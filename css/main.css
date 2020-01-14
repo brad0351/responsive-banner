@@ -15,9 +15,8 @@ a {
 }
 
 .btn {
-  color: #fff
+  color: #fff;
 }
-
 
 header {
   background-color: #495562;
@@ -43,10 +42,6 @@ header {
   color: #495562;
 }
 
-.btn-ghost {
-  border-color: #grey;
-}
-
 @media only screen and (min-width: 38em) {
 
   .banner-btn {
@@ -63,6 +58,5 @@ header {
     width: 100%;
     background-image: linear-gradient(to top, rgba(73, 85, 98, .6), rgba(73, 85, 98, 0));
   }
-
 
 }
