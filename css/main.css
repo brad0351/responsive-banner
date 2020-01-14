@@ -44,7 +44,7 @@ header {
 }
 
 .btn-ghost {
-  border-color: #fff;
+  border-color: #grey;
 }
 
 @media only screen and (min-width: 38em) {
